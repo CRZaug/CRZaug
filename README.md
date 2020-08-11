@@ -7,7 +7,13 @@
 - 👩‍💻 Instructor with Girls Who Code
 - ⌨️ Software engineering intern with Creative Creek
 
-When I'm not on the comptuer, I enjoy tennis, piano, bouldering, and hiking.
+### My goals for the next year include...
+
+- 🧮 Completing my first year of grad school
+- 🖥 Learning data structures and algorithms
+- 💯 Practicing statistical learning and ML on real-world data
+
+When I'm not on the computer, I enjoy tennis, piano, bouldering, and hiking.
 
 ✉️ Shoot me an email at zaugc@seattleu.edu!
 

@@ -1,8 +1,16 @@
-### Hi there 👋
+### Hey! I'm Camille!
+
+#### I'm a...
+
+- 🎓 Recent Seattle University grad (B.S. Mathematics, B.A. Physics, Chinese minor, _summa cum laude_)
+- 🏫 Applied mathematics grad student at the University of Washington
+- 👩‍💻 Instructor with Girls Who Code
+- 🏞 Software engineering intern with Creative Creek
+
+
+
 
 <!--
-**CRZaug/CRZaug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->

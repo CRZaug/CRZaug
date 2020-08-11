@@ -5,7 +5,11 @@
 - 🎓 Recent Seattle University grad (B.S. Mathematics, B.A. Physics, Chinese minor, _summa cum laude_)
 - 🏫 Applied mathematics grad student at the University of Washington
 - 👩‍💻 Instructor with Girls Who Code
-- 🏞 Software engineering intern with Creative Creek
+- ⌨️ Software engineering intern with Creative Creek
+
+When I'm not on the comptuer, I enjoy tennis, piano, bouldering, and hiking.
+
+✉️ Shoot me an email at zaugc@seattleu.edu!
 
 
 

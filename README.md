@@ -1,6 +1,18 @@
+      ___           ___           ___     
+     /\  \         /\  \         /\  \    
+    /::\  \       /::\  \        \:\  \   
+   /:/\:\  \     /:/\:\  \        \:\  \  
+  /:/  \:\  \   /::\~\:\  \        \:\  \ 
+ /:/__/ \:\__\ /:/\:\ \:\__\ _______\:\__\
+ \:\  \  \/__/ \/_|::\/:/  / \::::::::/__/
+  \:\  \          |:|::/  /   \:\~~\~~    
+   \:\  \         |:|\/__/     \:\  \     
+    \:\__\        |:|  |        \:\__\    
+     \/__/         \|__|         \/__/   
+
 ### Hey! I'm Camille!
 
-#### I'm a...
+### I'm a...
 
 - 🎓 Recent Seattle University grad (B.S. Mathematics, B.A. Physics, Chinese minor, _summa cum laude_)
 - 🏫 Applied mathematics grad student at the University of Washington

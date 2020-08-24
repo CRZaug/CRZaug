@@ -15,7 +15,7 @@
 
 When I'm not on the computer, I enjoy tennis, piano, bouldering, and hiking.
 
-✉️ Shoot me an email at zaugc@seattleu.edu!
+✉️ Shoot me an email at czaug@uw.edu!
 
 🖱 Check out my [interactive resume](https://www.camillezaug.com)!
 

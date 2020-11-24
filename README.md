@@ -2,7 +2,7 @@
 
 ### I'm a...
 
-- 🏫 Applied mathematics Ph.D student at the University of Washington
+- 🏫 Applied mathematics [Ph.D student](https://amath.washington.edu/people/camille-zaug) at the University of Washington
 - 🎓 2020 Seattle University grad (B.S. Mathematics, B.A. Physics, Chinese minor, _summa cum laude_)
 - ⌨️ Summer 2020 software engineering and development intern with [Creative Creek](https://creativecreek.com)
 - 👩‍💻 Summer 2020 instructor with [Girls Who Code](https://girlswhocode.com)

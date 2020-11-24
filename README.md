@@ -15,6 +15,8 @@
 
 When I'm not on the computer, I enjoy tennis, piano, bouldering, and hiking.
 
+#### I am looking for ☀️ Summer 2021 ☀️ internship opportunities in software engineering or data science! 
+
 ✉️ Shoot me an email at czaug@uw.edu!
 
 🖱 Check out my [interactive resume](https://www.camillezaug.com)!
